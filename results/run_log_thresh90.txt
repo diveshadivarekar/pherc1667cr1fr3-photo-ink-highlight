@@ -1,0 +1,5 @@
+Stroke components kept : 31
+Character regions      : 6
+Saved overlay          : images/output/PHerc1667Cr1Fr3_photo_highlighted_thresh90.png
+Saved enhanced crop    : images/input/PHerc1667Cr1Fr3_photo_enhanced.png
+Tip: if too much/too little is highlighted, adjust --thresh and --kernel.

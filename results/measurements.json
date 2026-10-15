@@ -1,0 +1,14 @@
+{
+ "image_px": [
+  1474,
+  1723
+ ],
+ "fragment_bbox_xywh": [
+  575,
+  620,
+  295,
+  481
+ ],
+ "fragment_area_px": 96048,
+ "dark_stroke_components_kept_default_params": 0
+}

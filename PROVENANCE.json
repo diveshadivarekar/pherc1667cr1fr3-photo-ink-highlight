@@ -1,0 +1,14 @@
+{
+ "scroll": "PHerc. 1667 Cr 1 Fr 3",
+ "item_label_in_photo": "1667.01.03",
+ "input": "images/input/PHerc1667Cr1Fr3_photo.jpg (1474 x 1723 px colour photograph of the fragment in its mount; source of the photo: as supplied by the submitter - not recorded in this package)",
+ "data_type": "2D surface photograph; no CT / micro-CT volume used",
+ "package_built": "2026-10-15",
+ "code": "code/highlight_characters.py (classical OpenCV: Otsu mask, CLAHE, black-hat/top-hat, component filter)",
+ "command": "python code/highlight_characters.py images/input/PHerc1667Cr1Fr3_photo.jpg -o images/output/PHerc1667Cr1Fr3_photo_highlighted.png --debug",
+ "parameters": "script defaults: kernel 15, thresh 14, min-area 30, max-area 4000",
+ "environment": {"python": "3.13.3", "opencv": "4.12.0", "numpy": "2.2.6", "platform": "Windows 11"},
+ "determinism": "no training, no randomness; outputs regenerated and found byte-identical (sha256) to the originals",
+ "git_commit": "see repository history after first commit",
+ "ai_assistance": "developed with Claude Code assistance"
+}
